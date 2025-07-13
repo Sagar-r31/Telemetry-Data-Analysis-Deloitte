@@ -30,12 +30,16 @@ This project focuses on analyzing telemetry data and helping a client draw insig
 
 ```
 Telemetry-Data-Analysis-Deloitte/
-├── daikibo-telemetry-data.json      # Raw telemetry data
-├── Task_2.xlsx                      # Cleaned & structured data
+├── daikibo-telemetry-data.zip        # Raw telemetry data zipped because of size constraint
+├── Task_2.xlsx                         # Cleaned & structured data
 ├── dashboard/
-│   ├── pic1.png                     # Tableau dashboard screenshot 1
-│   └── pic2.png                     # Tableau dashboard screenshot 2
-└── deloitte_certificate.pdf        # Internship certificate
+│   ├── pic1.png                        # Tableau dashboard screenshot 1
+│   ├── pic2.png                        # Tableau dashboard screenshot 2
+│   ├── Down_time_per_Factory.twb       # Tableau workbook: downtime per factory
+│   ├── Down_time_per_machine.twb       # Tableau workbook: downtime per machine
+│   └── simple_dashboard                # General/simple dashboard view
+└── deloitte_certificate.pdf           # Internship certificate
+
 ```
 
 ---
