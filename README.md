@@ -56,7 +56,7 @@ Telemetry-Data-Analysis-Deloitte/
 
 ## 🏅 Certificate
 
-![Internship Certificate](./deloitte_certificate.pdf)
+![Internship Certificate](./deloitte_certificate.jpg)
 
 ---
 
